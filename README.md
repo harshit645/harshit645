@@ -1,3 +1,7 @@
+<p align="center">
+<a href="#"><img width="65%" height="65%" src="https://www.sukudoanalytica.com/wp-content/uploads/2021/03/render-1.gif" height="175px"/></a>
+</p>
+
 ### Hi there, I am Harshit Singhal [Portfolio](https://harshit645.github.io/) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50px">
 
 <!--
@@ -22,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [harshitsinghal641@gmail.com](harshitsinghal641@gmail.com)
 - ⚡ Fun fact: I love to play PC Games 🎮
 
+<p>
+<a href="#"><img width="45%" height="45%" src="https://blog.solucionweb.com/hubfs/Archivos%20Blog%20Solucionweb/Imagenes%20Blog/Blog-Solucionweb-Cinco-Beneficios-de-contratar-una-agencia-de-marketing-digital-dos.gif" height="175px"/></a>
+</p>
 
 ### Connect with me:
 
